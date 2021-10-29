@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 require('./models/dbConfig');
 const sectionRoutes = require('./routes/sectionController');
-const sectionRvlcRoutesoutes = require('./routes/vlcController');
+const vlcRoutes = require('./routes/vlcController');
 const config = require("../config.json");
 
 
