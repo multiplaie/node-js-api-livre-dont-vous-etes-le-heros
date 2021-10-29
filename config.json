@@ -6,5 +6,9 @@
     },
     "app":{
         "port": 5500
+    },
+    "vlc":{
+        "port": 8080,
+        "password": "pwd"
     }
 }
